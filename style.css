@@ -1,0 +1,54 @@
+body {
+    font-family: 'Work Sans', sans-serif;
+}
+
+/* sheard maltipol */
+
+
+/* nav related style */
+nav {
+    background-image: url('images/banner/banner3.png');
+    background-repeat: no-repeat;
+    /* width: 100%;
+    height: fit-content; */
+    background-size:100%  700px ;
+}
+
+.main-title {
+    max-width: 700px;
+    text-align: right;
+    position: flex;
+    padding: 200px 150px 200px 810px;
+    gap: 20px;
+    
+}
+
+.nav-title {
+    color: #FFF;
+    text-align: right;
+    font-family: Work Sans;
+    font-size: 50px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+}
+
+.nav-desc {
+    color: #FFF;
+    text-align: right;
+    font-family: Work Sans;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 26px;
+    /* 162.5% */
+}
+.primary-btn {
+    color: #005FAC;
+    text-align: right;
+    font-family: Work Sans;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: normal;
+}
